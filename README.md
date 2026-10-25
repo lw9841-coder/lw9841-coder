@@ -14,6 +14,7 @@ I came to this from field work, building relationships with leaders across Oklah
 
 - **[ai-job-ranker](https://github.com/lw9841-coder/ai-job-ranker)**: watches 84 companies' job boards, has Claude score each posting against a written profile, and sends the best matches to my phone.
 - **[instagram-photo-poster](https://github.com/lw9841-coder/instagram-photo-poster)**: finds the best photos in Apple Photos, briefs me for the caption, and posts to Instagram only after I approve.
+- **[purchase-review-skill](https://github.com/lw9841-coder/purchase-review-skill)**: a Claude skill that reviews a shopping cart, gives budget, value, and premium picks with one clear choice, checks its own work, and never buys. Tested with written evals.
 
 ## Contact
 
